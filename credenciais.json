@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "pioneering-tome-363605",
+    "private_key_id": "52cc80e63319ba09133a583f760bf117e77dd013",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC6TeHEADBseF10\nVp44nQkZS7YNK+NvK11Tje1OnqLbbv4lvToBYCDasHXO0n4hlLC1qlcbKJH37pYL\nlTKzG/pDx551IvbqsWo5jaySLEasWZvFR7sXWYOcBAoGOWGVN6sX5y5lhzpj+b0q\nwRdmarnjDZtWeLrsRFRKBPzUjUruYg5CJgxDzByeBNSsdU+Xlw+Ltu54NGioujHH\nTEbXBF1TfCrdqRhyXEH1xQVkAZEecEeWKgxtMrWn9XMPDNrzPhizPeXO5iXSjm6e\nH2pcZNzCqao3YamLhq9vQvQT01cdTiIAWj+s/UCBj75OcEGwfWpwG6nUeMb6hCMP\nOgA586y3AgMBAAECggEAVUsatVUw1jg08PJG9bxPUhlre5RAR8EetQYhQwE1piim\nijibuc18vSJUjR+pR05/qGwX/QMR8OR2JU9lKsMATM+zKAWd7czTyQ2nmDRVFsrf\nme5BJWuB6Yef30Gd/2bBGexpPWovvV200UIdqHHsMJsmJuyXB1wxCsJFzjnxuDi8\nAL2ZBuzyKDchZkABW+o0BcZJUL2b8MpNKjKyFsHzD44vEmtTZGHP6m32SifVebfP\ndMStyqoBDrMtgq4hYKAfcA3mgn4zjEOa3mJzTCalR/OUR49YxMV8Yq2HuMgZI+NK\n5+a9BdNferQO7XXX6jwxU0CQCmD8TsJ8mZIwbT2mAQKBgQDlZAV+Py3TyTpiSlcm\nWDHj/KhHY+7wV9Kro/ZLW1gR2FEtY5OoMEuoi4kCsDQgxv2uPmQvZIluXKJ+4Z6D\ngFXvl4H+HBKKxvws0ojSNrq1bjuKCMeY85q++wkMrFefPSQB+VRVfCEE1OIki7Ty\nkqW811XjavgLPO0lRRZQNjRLQQKBgQDP6l2hVJlt0SDHYuQLC1o/3ZocUeIMCf/x\niXwIk36dchQ86spoce/vfFc9O3I/98YRZynw+HxmygIRGlJse5jPhM4bo6IZ+7Vq\nxFd50Y4E8KFZ3fVsvXpqxSnPDPmr1AuOVqpoXDNRkUbTL7uAiM0aGM7Bx5ZQX6TA\nL8kGQ0/R9wKBgFkf9n5pn62UlomP5rJwO9of1WX/btuU07Z6evwmXl54lHm1Ia6M\nLSksJayUt3wwtGmZtiUvw7HMbhosIQFowHrZe9k2IQIoc9waZKyANSS+0oU8Cgjk\nRTCEqqxw3Y5yG+ZkcB7SnqWY7NBUM5a34Yswgx9b9Umwf1cms5ewp7rBAoGAMgR5\nndQSTP7gWdcKcTW78l1HM8TnEmpdbifa9N02un21LKp3IwU16XEKM6rXY1giCBG/\nXz8H/lpegOrKJVreeh3Cz5df6cxJ6nNtb9rfxYR17H6fChfTGVhxJGREs/eBCC8F\nM7HqjpbaaPe0rck7Pin1o1x2ZsN7iNh2DdGnpCUCgYB6dLlfE9WqYoc1cHxlHSK8\nzEshQHGQrReVn6U4G5UAMnAnk9JLjezXSrcEk2BEC5LIINrwyo/g6DkqjHONDoTB\ndyBPyYKHdgziq6wnrIYI/uUOmbPrMtsuA2wOUlPOVY3sgeeM2bN9dAvI6lW/3dpD\n3zYFON2TAqtVbCydl3tqUA==\n-----END PRIVATE KEY-----\n",
+    "client_email": "sinais-contas@pioneering-tome-363605.iam.gserviceaccount.com",
+    "client_id": "104927836647970072142",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sinais-contas%40pioneering-tome-363605.iam.gserviceaccount.com"
+  }
+  
